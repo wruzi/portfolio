@@ -1,0 +1,4 @@
+# IDE / OS Files
+.vscode/
+.DS_Store
+Thumbs.db
