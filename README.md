@@ -16,7 +16,7 @@ A minimal beige and black developer portfolio featuring a horizontal *Interstell
 - **Featured Projects**: Zenith (AI Multi-Model Orchestration CLI), Zenpy (Python Developer Tools), CertificationV2 (Certificate Participation Platform)
 - **About & Philosophy**: Cross-discipline exploration across AI, Systems Programming, Astrophysics, and Web Architecture
 - **Technical Skills**: Python, C++, C, JavaScript, AI models & runtimes (Ollama, Qwen, Claude, GPT, Gemini, Mistral, Kimi, Sarvam AI)
-- **Education & Highlights**: Thakur College of Engineering & Technology (BCA), MAH-BBA/BCA CET 96.52 Percentile (Rank 263), CGPA 8.52 / 7.82
+- **Education & Highlights**: Thakur College of Engineering & Technology (BCA), CGPA 8.52 / 7.82
 - **Connect**: Direct communication channels & project repositories
 
 ---
